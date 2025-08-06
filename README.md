@@ -25,7 +25,7 @@ MotoX is an IoT-powered motorcycle security system designed to protect against t
 - Relay module
 - Power: 12V motorcycle battery → 5V via DC-DC step-down
 
-## 📱 Android App (optional)
+## 📱 Android App
 - Built with Flutter
 - BLE/Wi-Fi communication
 - Simple UI to switch operation modes
