@@ -1,2 +1,3 @@
-# MotoX
-IoT project for Motor cycle security
+# MotoX - IoT-based Motorcycle Security System 🏍️🔐
+
+MotoX is an IoT-powered motorcycle security system designed to protect against theft and unauthorized use...
